@@ -1,1 +1,2 @@
-# Connecting_The_First_Search
+# Connecting_the_first_search | Stamatics Project
+ASSIGMENTS REPO
